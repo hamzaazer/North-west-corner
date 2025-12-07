@@ -110,7 +110,7 @@ Space complexity: O(m*n) for the allocation matrix.
 - If tests are present, run:
 
 ```bash
-pytest
+python north_west_corner.py
 ```
 
 - Add unit tests for edge cases:
